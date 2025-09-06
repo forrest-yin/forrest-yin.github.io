@@ -53,3 +53,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Front Matter Defaults
+
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "pages"
+#      values:
+#        layout: "default-page"
+#        author: "Forrest Yin"
